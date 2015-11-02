@@ -1,0 +1,17 @@
+Stack
+int
+10
+method
+push 2
+int
+15
+method
+peek 0
+method
+push 1
+int
+20
+method
+pop 0
+field
+curr
